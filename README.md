@@ -183,13 +183,13 @@
 
 ###
 
-<img align="right" height="300" src="https://tenor.googleapis.com/v2/media?id=13703944864812415999&format=optimizedgif&client_key=tenor_web&appversion=browser-r20250506-2&access_token=ya29.A0AQQ_BDRK4ufE8xk2G0HEyFktksdcbnSYH9bdWiLfx-J-KdhzjwS5wZOKLkf4fRguHo2Edz3OPx3bDJVm86FjihnhGpCgnG5eIc4bBZXHunEWSk9Jnm8pAok6pVzClv6S7v5fvttWeyCRA_--TODeGSz4y-2C2AIc7kDaINR_DvCmuoI76t2_g3minzZlCXl9aIsECQAm60-NlFcDZcpxH4PEV2pvxHBd812u5p5_9PR5BAwydfmaMRHYukxPEGegRNxYJloRKdtGPZxZhBKJRg5H0lcaCgYKARoSARYSFQHGX2MiEhYJTRhkLMiQkoBr0PTBbQ0290&key=AIzaSyC-P6_qz3FzCoXGLk6tgitZo4jEJ5mLzD8"  />
+<img align="right" height="325" src="https://tenor.googleapis.com/v2/media?id=13703944864812415999&format=optimizedgif&client_key=tenor_web&appversion=browser-r20250506-2&access_token=ya29.A0AQQ_BDRK4ufE8xk2G0HEyFktksdcbnSYH9bdWiLfx-J-KdhzjwS5wZOKLkf4fRguHo2Edz3OPx3bDJVm86FjihnhGpCgnG5eIc4bBZXHunEWSk9Jnm8pAok6pVzClv6S7v5fvttWeyCRA_--TODeGSz4y-2C2AIc7kDaINR_DvCmuoI76t2_g3minzZlCXl9aIsECQAm60-NlFcDZcpxH4PEV2pvxHBd812u5p5_9PR5BAwydfmaMRHYukxPEGegRNxYJloRKdtGPZxZhBKJRg5H0lcaCgYKARoSARYSFQHGX2MiEhYJTRhkLMiQkoBr0PTBbQ0290&key=AIzaSyC-P6_qz3FzCoXGLk6tgitZo4jEJ5mLzD8"  />
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31uappfcugj4kevwhp4fj2hohea4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uappfcugj4kevwhp4fj2hohea4&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uappfcugj4kevwhp4fj2hohea4&count=4" alt="Spotify recently played"  />
   </a>
 </div>
 
