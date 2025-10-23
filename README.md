@@ -4,49 +4,49 @@
 
 ###
 
-<p align="left">Hey, I’m Pranav Kumar Swain — someone who finds joy in creating things that combine logic and creativity.<br>I started my coding journey out of curiosity, but it eventually  it turned into passion that keeps me up at night fixing bugs just to see that one satisfying result.</p>
+<h4 align="left">Hey, I’m Pranav Kumar Swain — someone who finds joy in creating things that combine logic and creativity.<br>I started my coding journey out of curiosity, but it eventually  it turned into passion that keeps me up at night fixing bugs just to see that one satisfying result.</h4>
 
 ###
 
-<p align="left">From full-stack web apps to AI and machine learning projects, I enjoy creating meaningful things. I learn something new about design, problem-solving, and how technology can influence the real world with each project.</p>
+<h4 align="left">From full-stack web apps to AI and machine learning projects, I enjoy creating meaningful things. I learn something new about design, problem-solving, and how technology can influence the real world with each project.</h4>
 
 ###
 
-<h3 align="left">🚀 The Mindset</h3>
+<h2 align="left">🚀 The Mindset</h2>
 
 ###
 
-<p align="left">I’m driven by curiosity and creativity. I enjoy diving deep into new tech,  breaking things, fixing them, and sharing what I discover. Whether it’s a solo project or a team sprint, I focus on clean code, thoughtful design, and problem-solving that actually makes a difference.</p>
+<h4 align="left">I’m driven by curiosity and creativity. I enjoy diving deep into new tech,  breaking things, fixing them, and sharing what I discover. Whether it’s a solo project or a team sprint, I focus on clean code, thoughtful design, and problem-solving that actually makes a difference.</h4>
 
 ###
 
-<h3 align="left">🧩  When I’m coding, you’ll find me buried in</h3>
+<h2 align="left">🧩  When I’m coding, you’ll find me buried in</h2>
 
 ###
 
-<p align="left">C, Java, JavaScript, Python, React, Express, Node, Angular — my comfort zone for turning ideas into code that actually works.</p>
+<h4 align="left">C, Java, JavaScript, Python, React, Express, Node, Angular — my comfort zone for turning ideas into code that actually works.</h4>
 
 ###
 
-<p align="left">Exploring new frameworks, adjusting machine learning models, and trying out creative methods to automate or streamline tasks.</p>
+<h4 align="left">Exploring new frameworks, adjusting machine learning models, and trying out creative methods to automate or streamline tasks.</h4>
 
 ###
 
-<h3 align="left">🎮 Beyond the Screen</h3>
+<h2 align="left">🎮 Beyond the Screen</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left">When I'm not coding, I'm most likely playing video games, travelling, or enjoying some music. I think my ability to be creative outside of code improves my ability to solve problems inside of it.</p>
+<h4 align="left">When I'm not coding, I'm most likely playing video games, travelling, or enjoying some music. I think my ability to be creative outside of code improves my ability to solve problems inside of it.</h4>
 
 ###
 
-<h3 align="left">🤝 Let’s Build Together</h3>
+<h2 align="left">🤝 Let’s Build Together</h2>
 
 ###
 
-<p align="left">I'm always up for new tech-related discussions, collaborations, or ideas.<br>Look me up on LinkedIn; we might end up creating something fantastic together.</p>
+<h4 align="left">I'm always up for new tech-related discussions, collaborations, or ideas.<br>Look me up on LinkedIn; we might end up creating something fantastic together.</h4>
 
 ###
 
@@ -175,6 +175,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Praaanaav/Praaanaav/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -183,7 +185,7 @@
 
 ###
 
-<img align="right" height="300" src="https://ddg21s9t062h4.cloudfront.net/0yhow%2Fpreview%2F72068614%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1761240538&Signature=fpy-kEMXFfmDDpaB-kUTf5kLdWn7SQ9xIHqVa1ZyUNY0Kr-PR9D5opuKX1NDgAx6GzAv0af1OJzGDk~BNSDjHSOGOeIp4omqEmQYCMZYR1YLBl63MCUOerwrUAhpg8RjDNlgHVQQbKlK365~xrnSw4yFStE25O8slgR8lCNNwZi0NA~kvdqHooZv9JvqlyYWT-LQLR6BTkwCzvZb2LIVGMvA-cRAAOuxOm2xPNw4LTbKxRvuRMUPSA8oRDdXU69T-dZA7Jo8oeRAEtkE1vkn5VCrXZGF7ZpylDYzjOzoR8SUaOUZhEGknweYUpA2ztN4q1t4jyp11qUvtYR0Dlj4ag__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ"  />
+<img align="right" height="300" src="https://tenor.googleapis.com/v2/media?id=13703944864812415999&format=optimizedgif&client_key=tenor_web&appversion=browser-r20250506-2&access_token=ya29.A0AQQ_BDRK4ufE8xk2G0HEyFktksdcbnSYH9bdWiLfx-J-KdhzjwS5wZOKLkf4fRguHo2Edz3OPx3bDJVm86FjihnhGpCgnG5eIc4bBZXHunEWSk9Jnm8pAok6pVzClv6S7v5fvttWeyCRA_--TODeGSz4y-2C2AIc7kDaINR_DvCmuoI76t2_g3minzZlCXl9aIsECQAm60-NlFcDZcpxH4PEV2pvxHBd812u5p5_9PR5BAwydfmaMRHYukxPEGegRNxYJloRKdtGPZxZhBKJRg5H0lcaCgYKARoSARYSFQHGX2MiEhYJTRhkLMiQkoBr0PTBbQ0290&key=AIzaSyC-P6_qz3FzCoXGLk6tgitZo4jEJ5mLzD8"  />
 
 ###
 
