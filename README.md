@@ -36,8 +36,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">When I'm not coding, I'm most likely playing video games, travelling, or enjoying some music. I think my ability to be creative outside of code improves my ability to solve problems inside of it.</h4>
 
 ###
