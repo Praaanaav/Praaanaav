@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="370" src="https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif"  />
+  <img height="370" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BoN3M0eW04M3F3OXo2ZGJ4eTQ4YjE4cTUwcjB0Ym1jeWRhNWV2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JtwOPyPetuhkkJu9gz/giphy.gif"  />
 </div>
 
 ###
@@ -65,7 +65,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
